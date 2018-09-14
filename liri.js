@@ -19,7 +19,7 @@ let writeToLog = function (data) {
     console.log("log.txt was updated!");
   });
 }
-
+// spotify api function
 function getMeSpotify(songName) {
   let spotify = new Spotify(dataKeys.spotify);
 
@@ -49,7 +49,7 @@ function getMeSpotify(songName) {
     };
   });
 }
-
+// omdb movie api function
 let getMeMovie = function (movieName) {
   if (!movieName) {
     movieName = "Tetsuo: The Iron man";
@@ -61,7 +61,6 @@ let getMeMovie = function (movieName) {
     if (err) throw err;
     else {
       let jsonData = JSON.parse(body);
-      console.log(jsonData);
 
       output = space + "================= LIRI FOUND THIS FOR YOU...==================" +
         space + 'Title: ' + jsonData.Title +
@@ -84,8 +83,9 @@ let getMeMovie = function (movieName) {
       });
     }
   });
-
 }
+
+
 
 const pick = function (caseData, functionData) {
   switch (caseData) {
@@ -93,8 +93,8 @@ const pick = function (caseData, functionData) {
       getMeSpotify(functionData)
       break;
     case 'movie-this':
-    getMeMovie(functionData)
-    break;
+      getMeMovie(functionData)
+      break;
   }
 }
 //run this on load of js file
