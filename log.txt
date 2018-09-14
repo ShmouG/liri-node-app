@@ -94,3 +94,159 @@ Artist Name: "Weird Al" Yankovic
 URL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR
 
 
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'WHITE AND NERDY'
+Album Name: Straight Outta Lynwood
+Artist Name: "Weird Al" Yankovic
+URL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'SEXUAL HEALING'
+Album Name: Midnight Love
+Artist Name: Marvin Gaye
+URL: https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'SEXUAL HEALING'
+Album Name: Midnight Love
+Artist Name: Marvin Gaye
+URL: https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+Rated: PG
+IMDB Rating: 8.6
+Country: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+Tomato Rating: 93%
+IMDb Rating: 8.6
+==================LIRI FOUND THIS FOR YOU================
+Artist: 'undefined'==================LIRI FOUND THIS FOR YOU================
+Artist: 'undefined'==================LIRI FOUND THIS FOR YOU================
+Artist: 'slipknot'==================LIRI FOUND THIS FOR YOU================
+Artist: 'undefined'==================LIRI FOUND THIS FOR YOU================
+Artist: 'undefined'==================LIRI FOUND THIS FOR YOU================
+Artist: 'undefined'function (data) {
+  fs.appendFile("random.text", '\r\n\r\n');
+
+  fs.appendFile("random.text", JSON.stringify(data), function (err) {
+    if (err) {
+      return console.log(err);
+    }
+
+    console.log("log.txt was updated!");
+  });
+}function (data) {
+  fs.appendFile("random.text", '\r\n\r\n');
+
+  fs.appendFile("random.text", JSON.stringify(data), function (err) {
+    if (err) {
+      return console.log(err);
+    }
+
+    console.log("log.txt was updated!");
+  });
+}function (data) {
+  fs.appendFile("random.text", '\r\n\r\n');
+
+  fs.appendFile("random.text", JSON.stringify(data), function (err) {
+    if (err) {
+      return console.log(err);
+    }
+
+    console.log("log.txt was updated!");
+  });
+}function (data) {
+  fs.appendFile("random.text", '\r\n\r\n');
+
+  fs.appendFile("random.text", JSON.stringify(data), function (err) {
+    if (err) {
+      return console.log(err);
+    }
+
+    console.log("log.txt was updated!");
+  });
+}function (data) {
+  fs.appendFile("random.text", '\r\n\r\n');
+
+  fs.appendFile("random.text", JSON.stringify(data), function (err) {
+    if (err) {
+      return console.log(err);
+    }
+
+    console.log("log.txt was updated!");
+  });
+}
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'WHITE AND NERDY'
+Album Name: Straight Outta Lynwood
+Artist Name: "Weird Al" Yankovic
+URL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'EMINEM'
+Album Name: Kamikaze
+Artist Name: Eminem
+URL: https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'WHITE AND NERDY'
+Album Name: Straight Outta Lynwood
+Artist Name: "Weird Al" Yankovic
+URL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'I WANT IT THAT WAY'
+Album Name: The Hits--Chapter One
+Artist Name: Backstreet Boys
+URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'GET LOW'
+Album Name: Kings Of Crunk
+Artist Name: Lil Jon & The East Side Boyz
+URL: https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI
+
+
+function (err) {
+    if (err) throw err;
+    console.log('Saved!');
+  }concert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-this
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/10/2018
+Name:  Festival Fauna Primavera 2018
+City: Santiago
+Country: Chile
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/11/2018
+Name: Personal Fest
+City: Monserrat
+Country: Argentina
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/15/2018
+Name: Popload Festival 2018 
+City: Sao Paulo
+Country: Brazil
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/17/2018
+Name: Corona Capital 2018
+City: Mexico City
+Country: Mexico

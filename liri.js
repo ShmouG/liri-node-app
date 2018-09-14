@@ -3,22 +3,60 @@ require("dotenv").config();
 const fs = require('fs');
 var Spotify = require('node-spotify-api');
 const request = require('request');
-const command = process.argv[2];
-const query = process.argv[3];
 const space = '\n';
 const dataKeys = require("./keys");
 
-let writeToLog = function (data) {
-  fs.appendFile("random.text", '\r\n\r\n');
 
-  fs.appendFile("random.text", JSON.stringify(data), function (err) {
+let writeToLog = function (data) {
+  fs.appendFile("log.txt", '\r\n\r\n');
+
+  fs.appendFile("log.txt", JSON.stringify(data), function (err) {
     if (err) {
       return console.log(err);
     }
 
     console.log("log.txt was updated!");
   });
+} 
+
+function toLog() {
+  fs.appendFile("log.txt",'concert-this', function (err) {
+    if (err) throw err;
+    console.log('Saved!');
+  });
 }
+
+// bands in town api function 
+function concertThis(artist) {
+  // Querying the bandsintown api for the selected artist, the ?app_id parameter is required, but can equal anything
+  request(`https://rest.bandsintown.com/artists/${artist}/events?app_id=codingbootcamp`, function(error, response, body) {
+      // If the request was successful...
+      if (!error && response.statusCode === 200) {
+          var JS = JSON.parse(body);
+          for (i = 0; i < JS.length; i++) {
+              var dTime = JS[i].datetime;
+              var month = dTime.substring(5,7);
+              var year = dTime.substring(0,4);
+              var day = dTime.substring(8,10);
+              var dateForm = month + "/" + day + "/" + year
+              output = space + "================= LIRI FOUND THIS FOR YOU...==================" +
+              space + "Date: " + dateForm +
+              space + "Name: " + JS[i].venue.name +
+              space + "City: " + JS[i].venue.city +
+              space + "Country: " + JS[i].venue.country;
+              console.log(output);
+
+              fs.appendFile("log.txt", output, function (err) {
+                if (err) throw err;
+                console.log('Saved!');
+              }); 
+          }
+      }
+      
+  });
+}
+
+
 // spotify api function
 function getMeSpotify(songName) {
   let spotify = new Spotify(dataKeys.spotify);
@@ -95,6 +133,10 @@ const pick = function (caseData, functionData) {
     case 'movie-this':
       getMeMovie(functionData)
       break;
+    case 'concert-this':
+      concertThis(functionData);
+      toLog();
+     break;
   }
 }
 //run this on load of js file
