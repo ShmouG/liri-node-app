@@ -6,3 +6,83 @@ Artist Name: Led Zeppelin
 URL: https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK
 
 
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'GET LOW'
+Album Name: Kings Of Crunk
+Artist Name: Lil Jon & The East Side Boyz
+URL: https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'RICK ASTLEY'
+Album Name: Whenever You Need Somebody
+Artist Name: Rick Astley
+URL: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'NEVER GON'
+Album Name: Dirty Skies
+Artist Name: Champagne Pa
+URL: https://open.spotify.com/album/5LPcnq6McOjUWVrB47tVmV
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'VOODOO'
+Album Name: Good Times, Bad Times - Ten Years of Godsmack
+Artist Name: Godsmack
+URL: https://open.spotify.com/album/2oJTYN8xPlbz6qURAPTzBa
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'V'
+Album Name: V
+Artist Name: Maroon 5
+URL: https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'WHITE AND NERDY'
+Album Name: Straight Outta Lynwood
+Artist Name: "Weird Al" Yankovic
+URL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'TOXIC'
+Album Name: In The Zone
+Artist Name: Britney Spears
+URL: https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI
+
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+Title: Hitman
+Year: 2007
+Rated: R
+IMDB Rating: 6.3
+Country: France, USA
+Language: English, Russian, Serbo-Croatian
+Plot: A gun-for-hire known only as Agent 47 hired by a group known only as 'The Organization' is ensnared in a political conspiracy, which finds him pursued by both Interpol and the Russian military as he treks across Russia and Eastern Europe.
+Actors: Timothy Olyphant, Dougray Scott, Olga Kurylenko, Robert Knepper
+Tomato Rating: 35/100
+IMDb Rating: 6.3
+
+================= LIRI FOUND THIS FOR YOU...==================
+Title: Tetsuo, the Iron Man
+Year: 1989
+Rated: NOT RATED
+IMDB Rating: 7.0
+Country: Japan
+Language: Japanese
+Plot: A businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.
+Actors: Tomorô Taguchi, Kei Fujiwara, Nobu Kanaoka, Shin'ya Tsukamoto
+Tomato Rating: 77%
+IMDb Rating: 7.0
