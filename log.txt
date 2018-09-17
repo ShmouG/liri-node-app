@@ -249,4 +249,239 @@ Country: Brazil
 Date: 11/17/2018
 Name: Corona Capital 2018
 City: Mexico City
+Country: Mexicoconcert-this
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/15/2018
+Name: Douglas Park
+City: Chicago
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/16/2018
+Name: First Avenue
+City: Minneapolis
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/17/2018
+Name: Waiting Room Lounge
+City: Omaha
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/18/2018
+Name: Gothic Theatre
+City: Englewood
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/20/2018
+Name: Rialto Theatre
+City: Tucson
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/21/2018
+Name: Marquee Theatre
+City: Tempe
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/22/2018
+Name: Downtown Las Vegas
+City: Las Vegas
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/30/2018
+Name: Observatory
+City: Santa Ana
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/01/2018
+Name: The Observatory North Park
+City: San Diego
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/03/2018
+Name: Mother Of All
+City: Monterrey
 Country: Mexico
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/04/2018
+Name: Foamhenge
+City: Houston
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/05/2018
+Name: Paper Tiger
+City: San Antonio
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/06/2018
+Name: Emo's
+City: Austin
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/07/2018
+Name: Granada Theater
+City: Dallas
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: 'JOKER AND THE THIEF'
+Album Name: Wolfmother
+Artist Name: Wolfmother
+URL: https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC
+
+
+concert-this
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/15/2018
+Name: Douglas Park
+City: Chicago
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/16/2018
+Name: First Avenue
+City: Minneapolis
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/17/2018
+Name: Waiting Room Lounge
+City: Omaha
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/18/2018
+Name: Gothic Theatre
+City: Englewood
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/20/2018
+Name: Rialto Theatre
+City: Tucson
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/21/2018
+Name: Marquee Theatre
+City: Tempe
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 09/22/2018
+Name: Downtown Las Vegas
+City: Las Vegas
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/30/2018
+Name: Observatory
+City: Santa Ana
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/01/2018
+Name: The Observatory North Park
+City: San Diego
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/03/2018
+Name: Mother Of All
+City: Monterrey
+Country: Mexico
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/04/2018
+Name: Foamhenge
+City: Houston
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/05/2018
+Name: Paper Tiger
+City: San Antonio
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/06/2018
+Name: Emo's
+City: Austin
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 11/07/2018
+Name: Granada Theater
+City: Dallas
+Country: United Statesconcert-this
+================= LIRI FOUND THIS FOR YOU...==================
+Title: Paris, Texas
+Year: 1984
+Rated: R
+IMDB Rating: 8.1
+Country: West Germany, France, UK, USA
+Language: English, Spanish
+Plot: Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.
+Actors: Harry Dean Stanton, Nastassja Kinski, Dean Stockwell, Aurore Clément
+Tomato Rating: 97%
+IMDb Rating: 8.1
+concert-this
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/06/2018
+Name: Cal Jam 18
+City: San Bernardino
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/08/2018
+Name: Talking Stick Resort Arena 
+City: Phoenix
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/10/2018
+Name: Pepsi Center
+City: Denver
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/12/2018
+Name: Sprint Center
+City: Kansas City
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/13/2018
+Name: Enterprise Center
+City: St Louis
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/15/2018
+Name: Little Caesars Arena
+City: Detroit
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/17/2018
+Name: Fiserv Forum
+City: Milwaukee
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/18/2018
+Name: Xcel Energy Center
+City: St Paul
+Country: United States
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/22/2018
+Name: Rogers Place
+City: Edmonton
+Country: Canada
+================= LIRI FOUND THIS FOR YOU...==================
+Date: 10/23/2018
+Name: Scotiabank Saddledome
+City: Calgary
+Country: Canada
+
+"spotify-this-song,\"I Want it That Way\"\r\n\r\n\"\\n---------------------------------------------------\\n\"\r\n\r\n\"Date: 09/21/2018\"\r\n\r\n\"Name: Grumpy's Green\"\r\n\r\n\"City: Melbourne\"\r\n\r\n\"Country: Australia\"\r\n\r\n\"\\n---------------------------------------------------\\n\"\r\n\r\n\"\\n---------------------------------------------------\\n\"\r\n\r\n\"Date: 10/21/2018\"\r\n\r\n\"Name: Club John Doe\"\r\n\r\n\"City: Amsterdam\"\r\n\r\n\"Country: Netherlands\"\r\n\r\n\"\\n---------------------------------------------------\\n\"\r\n\r\n\"\\n---------------------------------------------------\\n\"\r\n\r\n\"Date: 09/21/2018\"\r\n\r\n\"Name: Grumpy's Green\"\r\n\r\n\"City: Melbourne\"\r\n\r\n\"Country: Australia\"\r\n\r\n\"\\n---------------------------------------------------\\n\"\r\n\r\n\"\\n---------------------------------------------------\\n\"\r\n\r\n\"Date: 10/21/2018\"\r\n\r\n\"Name: Club John Doe\"\r\n\r\n\"City: Amsterdam\"\r\n\r\n\"Country: Netherlands\"\r\n\r\n\"\\n---------------------------------------------------\\n\""
+
+"spotify-this-song,\"I Want it That Way\"\r\n"
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: '"I WANT IT THAT WAY"
+'
+Album Name: The Hits--Chapter One
+Artist Name: Backstreet Boys
+URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+
+
+
+"\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'STAIRWAY TO HEAVEN'\nAlbum Name: Led Zeppelin IV (Deluxe Edition)\nArtist Name: Led Zeppelin\nURL: https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'GET LOW'\nAlbum Name: Kings Of Crunk\nArtist Name: Lil Jon & The East Side Boyz\nURL: https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'RICK ASTLEY'\nAlbum Name: Whenever You Need Somebody\nArtist Name: Rick Astley\nURL: https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'NEVER GON'\nAlbum Name: Dirty Skies\nArtist Name: Champagne Pa\nURL: https://open.spotify.com/album/5LPcnq6McOjUWVrB47tVmV\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'VOODOO'\nAlbum Name: Good Times, Bad Times - Ten Years of Godsmack\nArtist Name: Godsmack\nURL: https://open.spotify.com/album/2oJTYN8xPlbz6qURAPTzBa\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'V'\nAlbum Name: V\nArtist Name: Maroon 5\nURL: https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'WHITE AND NERDY'\nAlbum Name: Straight Outta Lynwood\nArtist Name: \"Weird Al\" Yankovic\nURL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'TOXIC'\nAlbum Name: In The Zone\nArtist Name: Britney Spears\nURL: https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nTitle: Hitman\nYear: 2007\nRated: R\nIMDB Rating: 6.3\nCountry: France, USA\nLanguage: English, Russian, Serbo-Croatian\nPlot: A gun-for-hire known only as Agent 47 hired by a group known only as 'The Organization' is ensnared in a political conspiracy, which finds him pursued by both Interpol and the Russian military as he treks across Russia and Eastern Europe.\nActors: Timothy Olyphant, Dougray Scott, Olga Kurylenko, Robert Knepper\nTomato Rating: 35/100\nIMDb Rating: 6.3\n\n================= LIRI FOUND THIS FOR YOU...==================\nTitle: Tetsuo, the Iron Man\nYear: 1989\nRated: NOT RATED\nIMDB Rating: 7.0\nCountry: Japan\nLanguage: Japanese\nPlot: A businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.\nActors: Tomorô Taguchi, Kei Fujiwara, Nobu Kanaoka, Shin'ya Tsukamoto\nTomato Rating: 77%\nIMDb Rating: 7.0\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'WHITE AND NERDY'\nAlbum Name: Straight Outta Lynwood\nArtist Name: \"Weird Al\" Yankovic\nURL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'WHITE AND NERDY'\nAlbum Name: Straight Outta Lynwood\nArtist Name: \"Weird Al\" Yankovic\nURL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'SEXUAL HEALING'\nAlbum Name: Midnight Love\nArtist Name: Marvin Gaye\nURL: https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'SEXUAL HEALING'\nAlbum Name: Midnight Love\nArtist Name: Marvin Gaye\nURL: https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nTitle: Star Wars: Episode IV - A New Hope\nYear: 1977\nRated: PG\nIMDB Rating: 8.6\nCountry: USA\nLanguage: English\nPlot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.\nActors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing\nTomato Rating: 93%\nIMDb Rating: 8.6\n==================LIRI FOUND THIS FOR YOU================\nArtist: 'undefined'==================LIRI FOUND THIS FOR YOU================\nArtist: 'undefined'==================LIRI FOUND THIS FOR YOU================\nArtist: 'slipknot'==================LIRI FOUND THIS FOR YOU================\nArtist: 'undefined'==================LIRI FOUND THIS FOR YOU================\nArtist: 'undefined'==================LIRI FOUND THIS FOR YOU================\nArtist: 'undefined'function (data) {\n  fs.appendFile(\"random.text\", '\\r\\n\\r\\n');\n\n  fs.appendFile(\"random.text\", JSON.stringify(data), function (err) {\n    if (err) {\n      return console.log(err);\n    }\n\n    console.log(\"log.txt was updated!\");\n  });\n}function (data) {\n  fs.appendFile(\"random.text\", '\\r\\n\\r\\n');\n\n  fs.appendFile(\"random.text\", JSON.stringify(data), function (err) {\n    if (err) {\n      return console.log(err);\n    }\n\n    console.log(\"log.txt was updated!\");\n  });\n}function (data) {\n  fs.appendFile(\"random.text\", '\\r\\n\\r\\n');\n\n  fs.appendFile(\"random.text\", JSON.stringify(data), function (err) {\n    if (err) {\n      return console.log(err);\n    }\n\n    console.log(\"log.txt was updated!\");\n  });\n}function (data) {\n  fs.appendFile(\"random.text\", '\\r\\n\\r\\n');\n\n  fs.appendFile(\"random.text\", JSON.stringify(data), function (err) {\n    if (err) {\n      return console.log(err);\n    }\n\n    console.log(\"log.txt was updated!\");\n  });\n}function (data) {\n  fs.appendFile(\"random.text\", '\\r\\n\\r\\n');\n\n  fs.appendFile(\"random.text\", JSON.stringify(data), function (err) {\n    if (err) {\n      return console.log(err);\n    }\n\n    console.log(\"log.txt was updated!\");\n  });\n}\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'WHITE AND NERDY'\nAlbum Name: Straight Outta Lynwood\nArtist Name: \"Weird Al\" Yankovic\nURL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'EMINEM'\nAlbum Name: Kamikaze\nArtist Name: Eminem\nURL: https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'WHITE AND NERDY'\nAlbum Name: Straight Outta Lynwood\nArtist Name: \"Weird Al\" Yankovic\nURL: https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'I WANT IT THAT WAY'\nAlbum Name: The Hits--Chapter One\nArtist Name: Backstreet Boys\nURL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r\n\n\n\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'GET LOW'\nAlbum Name: Kings Of Crunk\nArtist Name: Lil Jon & The East Side Boyz\nURL: https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI\n\n\nfunction (err) {\n    if (err) throw err;\n    console.log('Saved!');\n  }concert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-thisconcert-this\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/10/2018\nName:  Festival Fauna Primavera 2018\nCity: Santiago\nCountry: Chile\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/11/2018\nName: Personal Fest\nCity: Monserrat\nCountry: Argentina\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/15/2018\nName: Popload Festival 2018 \nCity: Sao Paulo\nCountry: Brazil\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/17/2018\nName: Corona Capital 2018\nCity: Mexico City\nCountry: Mexicoconcert-this\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/15/2018\nName: Douglas Park\nCity: Chicago\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/16/2018\nName: First Avenue\nCity: Minneapolis\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/17/2018\nName: Waiting Room Lounge\nCity: Omaha\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/18/2018\nName: Gothic Theatre\nCity: Englewood\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/20/2018\nName: Rialto Theatre\nCity: Tucson\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/21/2018\nName: Marquee Theatre\nCity: Tempe\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/22/2018\nName: Downtown Las Vegas\nCity: Las Vegas\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/30/2018\nName: Observatory\nCity: Santa Ana\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/01/2018\nName: The Observatory North Park\nCity: San Diego\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/03/2018\nName: Mother Of All\nCity: Monterrey\nCountry: Mexico\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/04/2018\nName: Foamhenge\nCity: Houston\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/05/2018\nName: Paper Tiger\nCity: San Antonio\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/06/2018\nName: Emo's\nCity: Austin\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/07/2018\nName: Granada Theater\nCity: Dallas\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: 'JOKER AND THE THIEF'\nAlbum Name: Wolfmother\nArtist Name: Wolfmother\nURL: https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC\n\n\nconcert-this\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/15/2018\nName: Douglas Park\nCity: Chicago\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/16/2018\nName: First Avenue\nCity: Minneapolis\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/17/2018\nName: Waiting Room Lounge\nCity: Omaha\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/18/2018\nName: Gothic Theatre\nCity: Englewood\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/20/2018\nName: Rialto Theatre\nCity: Tucson\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/21/2018\nName: Marquee Theatre\nCity: Tempe\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 09/22/2018\nName: Downtown Las Vegas\nCity: Las Vegas\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/30/2018\nName: Observatory\nCity: Santa Ana\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/01/2018\nName: The Observatory North Park\nCity: San Diego\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/03/2018\nName: Mother Of All\nCity: Monterrey\nCountry: Mexico\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/04/2018\nName: Foamhenge\nCity: Houston\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/05/2018\nName: Paper Tiger\nCity: San Antonio\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/06/2018\nName: Emo's\nCity: Austin\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 11/07/2018\nName: Granada Theater\nCity: Dallas\nCountry: United Statesconcert-this\n================= LIRI FOUND THIS FOR YOU...==================\nTitle: Paris, Texas\nYear: 1984\nRated: R\nIMDB Rating: 8.1\nCountry: West Germany, France, UK, USA\nLanguage: English, Spanish\nPlot: Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.\nActors: Harry Dean Stanton, Nastassja Kinski, Dean Stockwell, Aurore Clément\nTomato Rating: 97%\nIMDb Rating: 8.1\nconcert-this\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/06/2018\nName: Cal Jam 18\nCity: San Bernardino\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/08/2018\nName: Talking Stick Resort Arena \nCity: Phoenix\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/10/2018\nName: Pepsi Center\nCity: Denver\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/12/2018\nName: Sprint Center\nCity: Kansas City\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/13/2018\nName: Enterprise Center\nCity: St Louis\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/15/2018\nName: Little Caesars Arena\nCity: Detroit\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/17/2018\nName: Fiserv Forum\nCity: Milwaukee\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/18/2018\nName: Xcel Energy Center\nCity: St Paul\nCountry: United States\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/22/2018\nName: Rogers Place\nCity: Edmonton\nCountry: Canada\n================= LIRI FOUND THIS FOR YOU...==================\nDate: 10/23/2018\nName: Scotiabank Saddledome\nCity: Calgary\nCountry: Canada\r\n\r\n\"spotify-this-song,\\\"I Want it That Way\\\"\\r\\n\\r\\n\\\"\\\\n---------------------------------------------------\\\\n\\\"\\r\\n\\r\\n\\\"Date: 09/21/2018\\\"\\r\\n\\r\\n\\\"Name: Grumpy's Green\\\"\\r\\n\\r\\n\\\"City: Melbourne\\\"\\r\\n\\r\\n\\\"Country: Australia\\\"\\r\\n\\r\\n\\\"\\\\n---------------------------------------------------\\\\n\\\"\\r\\n\\r\\n\\\"\\\\n---------------------------------------------------\\\\n\\\"\\r\\n\\r\\n\\\"Date: 10/21/2018\\\"\\r\\n\\r\\n\\\"Name: Club John Doe\\\"\\r\\n\\r\\n\\\"City: Amsterdam\\\"\\r\\n\\r\\n\\\"Country: Netherlands\\\"\\r\\n\\r\\n\\\"\\\\n---------------------------------------------------\\\\n\\\"\\r\\n\\r\\n\\\"\\\\n---------------------------------------------------\\\\n\\\"\\r\\n\\r\\n\\\"Date: 09/21/2018\\\"\\r\\n\\r\\n\\\"Name: Grumpy's Green\\\"\\r\\n\\r\\n\\\"City: Melbourne\\\"\\r\\n\\r\\n\\\"Country: Australia\\\"\\r\\n\\r\\n\\\"\\\\n---------------------------------------------------\\\\n\\\"\\r\\n\\r\\n\\\"\\\\n---------------------------------------------------\\\\n\\\"\\r\\n\\r\\n\\\"Date: 10/21/2018\\\"\\r\\n\\r\\n\\\"Name: Club John Doe\\\"\\r\\n\\r\\n\\\"City: Amsterdam\\\"\\r\\n\\r\\n\\\"Country: Netherlands\\\"\\r\\n\\r\\n\\\"\\\\n---------------------------------------------------\\\\n\\\"\"\r\n\r\n\"spotify-this-song,\\\"I Want it That Way\\\"\\r\\n\"\n================= LIRI FOUND THIS FOR YOU...==================\nSong Name: '\"I WANT IT THAT WAY\"\r\n'\nAlbum Name: The Hits--Chapter One\nArtist Name: Backstreet Boys\nURL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r\n\n\n"
+
+"spotify-this-song,\"I Want it That Way\"\r\n"
+================= LIRI FOUND THIS FOR YOU...==================
+Song Name: '"I WANT IT THAT WAY"
+'
+Album Name: The Hits--Chapter One
+Artist Name: Backstreet Boys
+URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+

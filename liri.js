@@ -87,6 +87,7 @@ function getMeSpotify(songName) {
     };
   });
 }
+
 // omdb movie api function
 let getMeMovie = function (movieName) {
   if (!movieName) {
@@ -123,7 +124,20 @@ let getMeMovie = function (movieName) {
   });
 }
 
+let doWhatItSays = function() {
+  fs.readFile("random.text", "utf8", function(error, data) {
+      console.log(data);
+      writeToLog(data);
+      let dataArr = data.split(',')
 
+      if (dataArr.length == 2) {
+          pick(dataArr[0], dataArr[1]);
+      } else if (dataArr.length == 1) {
+          pick(dataArr[0]);
+      }
+
+  });
+}
 
 const pick = function (caseData, functionData) {
   switch (caseData) {
@@ -137,6 +151,9 @@ const pick = function (caseData, functionData) {
       concertThis(functionData);
       toLog();
      break;
+    case 'do-what-it-says':
+    doWhatItSays(functionData);
+    break;
   }
 }
 //run this on load of js file
