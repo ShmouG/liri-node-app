@@ -1,4 +1,4 @@
-#Liri - a supersonic, soectacular, genius node application extravaganza.
+# Liri - a supersonic, soectacular, genius node application extravaganza.
 
 To install these npm packages run these commands one at a time.
 
@@ -8,7 +8,7 @@ npm install request
 npm install dotenv
 ,,,,,
 
-#Commands to run LIRI
+### Commands to run LIRI
 Follow the format presented in these queries
 
 -node liri.js my-tweets
