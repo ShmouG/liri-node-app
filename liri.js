@@ -39,7 +39,7 @@ function concertThis(artist) {
               var year = dTime.substring(0,4);
               var day = dTime.substring(8,10);
               var dateForm = month + "/" + day + "/" + year
-              output = space + "================= LIRI FOUND THIS FOR YOU...==================" +
+              output = space + "༼ つ ◕o◕ ༽つ ༼ つ ◕o◕ ༽つ LIRI FOUND THIS FOR YOU...༼ つ ◕o◕ ༽つ ༼ つ ◕o◕ ༽つ" + "\n" +
               space + "Date: " + dateForm +
               space + "Name: " + JS[i].venue.name +
               space + "City: " + JS[i].venue.city +
@@ -73,7 +73,7 @@ function getMeSpotify(songName) {
       console.log('Error occurred: ' + err);
       return;
     } else {
-      output = space + "================= LIRI FOUND THIS FOR YOU...==================" +
+      output = space + "༼ つ ◕o◕ ༽つ ༼ つ ◕o◕ ༽つ LIRI FOUND THIS FOR YOU...༼ つ ◕o◕ ༽つ ༼ つ ◕o◕ ༽つ" + "\n" +
         space + "Song Name: " + "'" + songName.toUpperCase() + "'" +
         space + "Album Name: " + data.tracks.items[0].album.name +
         space + "Artist Name: " + data.tracks.items[0].album.artists[0].name +
@@ -101,7 +101,7 @@ let getMeMovie = function (movieName) {
     else {
       let jsonData = JSON.parse(body);
 
-      output = space + "================= LIRI FOUND THIS FOR YOU...==================" +
+      output = space + "༼ つ ◕o◕ ༽つ ༼ つ ◕o◕ ༽つ LIRI FOUND THIS FOR YOU...༼ つ ◕o◕ ༽つ ༼ つ ◕o◕ ༽つ" + "\n" +
         space + 'Title: ' + jsonData.Title +
         space + 'Year: ' + jsonData.Year +
         space + 'Rated: ' + jsonData.Rated +
