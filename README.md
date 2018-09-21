@@ -1,4 +1,4 @@
-# Liri - a supersonic, soectacular, genius node application extravaganza.
+# Liri - a supersonic, spectacular, genius node application extravaganza.
 
 To install these npm packages run these commands one at a time.
 
